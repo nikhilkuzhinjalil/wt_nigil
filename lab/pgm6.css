@@ -1,0 +1,17 @@
+*
+{
+    background-color: aliceblue;
+    color: brown;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+body{
+    text-align: center; 
+}
+table{
+    height: 300px;
+}
+th{
+    background-color: rgb(207, 127, 127);
+    color: black  ;
+}
